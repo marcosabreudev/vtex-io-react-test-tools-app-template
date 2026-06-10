@@ -1,0 +1,6 @@
+{
+  "greeting": {
+    "component": "Greeting",
+    "composition": "children"
+  }
+}
